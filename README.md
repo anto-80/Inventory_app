@@ -94,11 +94,7 @@ To-do:
 * Ricardo Salcido [RSalcido2019](https://github.com/RSalcido2019)
 * Mushfika Raisa  [mushfikaraisa](https://github.com/mushfikaraisa)
 
-## Installation Instructions 
-1. Fork this repo
-2. Clone down to your local device
-3. npm install to install application dependencies
-4. npm start to run the application
+
 
 
 
