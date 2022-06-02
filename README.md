@@ -20,6 +20,16 @@ An app that shows the inventory in various warehouses.
 
  * this project utilized object oriented programming, with key value pairs for storing data.
 
+\#JF 5:1 
+
+ * Knows relevant and up-to-date software testing frameworks and methodologies
+ * for this project we utilized jest , a lightweight and fast javascript framework
+
+\#JF 5:2
+
+ * Understands how to test code and analyze results to correct errors found using unit testing.
+ * we were capable of creating tests that passed and also correcting errors when they occured
+
 ## Table of contents
   * [Introduction](Introduction)
   * [Demo](Demo)
